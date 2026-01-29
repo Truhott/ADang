@@ -1,8 +1,8 @@
-![dbekasov11](https://github.com/user-attachments/assets/4b947091-bc63-4261-b9a2-09c7f1c9d082)
+![Truhot](https://github.com/user-attachments/assets/4b947091-bc63-4261-b9a2-09c7f1c9d082)
 
 
 
-<h1 align="center">Привет — я <strong>dbekasov11</strong> 👋</h1>
+<h1 align="center">Привет — я <strong>Truhot</strong> 👋</h1>
 
 <p align="center" style="color:#e0c0ff;">
   Я изучаю <strong>Python</strong>, <strong>Java</strong> и <strong>JavaScript</strong>.  
