@@ -25,16 +25,16 @@
 
 ## 🌐 Соцсети
 <p align="center">
-  <a href="https://vk.com/dbekasov11" target="_blank">
+  <a href="https://vk.com/Truhot" target="_blank">
     <img src="https://img.shields.io/badge/VK-1DA1F2?style=for-the-badge&logo=vk&logoColor=white" alt="VK">
   </a>
-  <a href="https://t.me/dbekasov11" target="_blank">
+  <a href="https://t.me/Truhot" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://discord.com/users/dbekasov11" target="_blank">
+  <a href="https://discord.com/users/Truhot" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://github.com/dbekasov11" target="_blank">
+  <a href="https://github.com/Truhot" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
