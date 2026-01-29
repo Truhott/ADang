@@ -1,6 +1,3 @@
-![Truhot](https://github.com/user-attachments/assets/4b947091-bc63-4261-b9a2-09c7f1c9d082)
-
-
 
 <h1 align="center">Привет — я <strong>Truhot</strong> 👋</h1>
 
